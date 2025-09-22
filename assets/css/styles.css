@@ -4,6 +4,7 @@ body {
 }
 p {
     font-weight: bold;
+    color: darkblue;
 }
 .text-center {
     text-align: center;
